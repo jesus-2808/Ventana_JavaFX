@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="176.0" prefWidth="322.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.viewsandcontrollers.modal.ModalController"> 
+    <children>
+       
+        
+        <Label fx:id="label2" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+              <Button fx:id="button" layoutX="126.0" layoutY="90" onAction="#cerrarVentanaAction" text="Chapar" />
+      <CheckBox layoutX="14.0" layoutY="5.0" mnemonicParsing="false" text="Verificar" />
+    </children>
+    
+</AnchorPane>

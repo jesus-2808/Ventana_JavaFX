@@ -30,7 +30,7 @@ import org.junit.jupiter.api.TestMethodOrder;
  * Esta clase esta preparada para testear el programa main principal de un proyecto
  * interceptando y suplantando tando la entrada como la salida estandar teclado
  * y pantalla
- * @author eserrano
+ * @author jgonzalez
  *
  */
 @TestMethodOrder(MethodName.class)
