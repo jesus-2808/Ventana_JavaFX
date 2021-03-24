@@ -12,7 +12,7 @@
     <children>
             <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
          <TextField fx:id="textfield" layoutX="90" layoutY="50" text="Escribe tu mensaje" />
-         <Button fx:id="button" layoutX="126.0" layoutY="120" onAction="#handleButtonAction" text="Click me" />
+         <Button fx:id="button" layoutX="126.0" layoutY="120" onAction="#handleButtonAction" text="Pulsa para avanzar" />
       
       
         
